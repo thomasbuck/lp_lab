@@ -1,0 +1,6 @@
+5
+resultados_jogador_1.txt
+resultados_jogador_2.txt
+resultados_jogador_3.txt
+resultados_jogador_4.txt
+resultados_jogador_5.txt
